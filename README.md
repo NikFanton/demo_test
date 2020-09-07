@@ -1,1 +1,1 @@
-# demo_test
+./mvnw spring-boot:run
